@@ -1,6 +1,7 @@
-<img src="public/logo.svg" width="72" alt="Logo" align="right">
-
-# Pfadiprofil-Checker
+<div align="center" style="margin-top: 24px;">
+  <img src="public/logo.svg" width="144" alt="Logo">
+  <h1>Pfadiprofil-Checker</h1>
+</div>
 
 Web-App für Pfadileitende: Grobprogramm hochladen oder Samstage von Hand erfassen, jedem Block die
 geförderten **Beziehungen** und eingesetzten **Methoden** aus dem Pfadiprofil zuordnen und eine
@@ -22,3 +23,10 @@ npm run dev
 - **Übersicht**: Häufigkeit und Stunden pro Beziehung und Methode, Hinweise auf fehlende oder wenig genutzte Elemente, Matrix Beziehung × Methode, Verlauf über die Tage und für jedes Element die Liste der Blöcke. Kategorien (z.B. Essen) lassen sich ausblenden.
 - **Als PDF speichern**: eigene Druckansicht (A4) über den Druckdialog des Browsers.
 - **Daten**: Der Stand wird automatisch im Browser gespeichert. Über «Daten» lässt sich alles als JSON-Datei exportieren und wieder importieren (zum Teilen im Leitungsteam oder als Backup).
+
+
+## Libraries
+- [Vue 3](https://vuejs.org/) (Composition API, Vue Router)
+- [TailwindCSS](https://tailwindcss.com/) (inkl. Forms, Typography)
+- [Pinia](https://pinia.vuejs.org/) (State Management)
+- [pdfjs](https://mozilla.github.io/pdf.js/) (PDF Viewer)

@@ -1,0 +1,93 @@
+:root {
+  --brombeer: #84456e;
+  --brombeer-dunkel: #5c264a;
+  --text: #231f20;
+  --text-grau: #6d6e71;
+  --linie: #e4dce2;
+}
+
+html,
+body,
+.v-application {
+  font-family: 'Inter Variable', 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+.v-btn {
+  text-transform: none !important;
+  letter-spacing: normal !important;
+  font-weight: 500;
+}
+
+.seite {
+  padding: 16px;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  .seite {
+    padding: 8px;
+  }
+}
+
+.kopfzeile {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 20px;
+  border-bottom: 1px solid var(--linie);
+  flex-wrap: wrap;
+}
+
+.kopfzeile h1 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.abschnitt-titel {
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--brombeer);
+  margin: 0 0 8px;
+}
+
+.print-only {
+  display: none;
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 12mm 12mm 14mm;
+  }
+  html,
+  body,
+  .v-application,
+  .v-main {
+    background: #fff !important;
+  }
+  .seite {
+    padding: 0 !important;
+    max-width: none !important;
+  }
+  .no-print,
+  .screen-only,
+  .v-app-bar,
+  .v-navigation-drawer,
+  .v-snackbar {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .v-main {
+    padding: 0 !important;
+  }
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}

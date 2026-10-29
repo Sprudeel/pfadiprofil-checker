@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pfadiprofil-Checker</title>
+    <script>
+      // GitHub Pages hat keine Server-Rewrites: unbekannte Pfade (z.B. /pfadiprofil-checker/kalender)
+      // landen hier. Pfad merken und zur App zurückschicken, main.ts stellt ihn dann wieder her.
+      sessionStorage.setItem('spa-redirect', location.pathname + location.search)
+      location.replace('/pfadiprofil-checker/')
+    </script>
+  </head>
+  <body></body>
+</html>

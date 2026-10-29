@@ -1,0 +1,1537 @@
+{
+  "name": "Demo: Herbstlager «Verloren in der Zeit»",
+  "group": "Pfadi Wart",
+  "motto": "Verloren in der Zeit",
+  "location": "Rheinbundhaus, Auf der Hollen 1, 414 Hochwald",
+  "lead": "Léonard Schafer",
+  "coach": "Lukas Rupper v/o Blitz",
+  "categories": [
+    {
+      "short": "ES",
+      "name": "Essen",
+      "color": "#BBBBBB"
+    },
+    {
+      "short": "FREI",
+      "name": "Freizeit",
+      "color": "#FFFF00"
+    },
+    {
+      "short": "LA",
+      "name": "Lageraktivität",
+      "color": "#FF9800"
+    },
+    {
+      "short": "LP",
+      "name": "Lagerprogramm",
+      "color": "#90B7E4"
+    },
+    {
+      "short": "LS",
+      "name": "Lagersport",
+      "color": "#4DBB52"
+    },
+    {
+      "short": "Motto",
+      "name": "Motto",
+      "color": "#FF94AC"
+    },
+    {
+      "short": "TABS",
+      "name": "Tagesabschluss",
+      "color": "#FF6961"
+    }
+  ],
+  "days": [
+    {
+      "date": "2023-10-08",
+      "responsible": "Zelia"
+    },
+    {
+      "date": "2023-10-09",
+      "responsible": "Zaziki"
+    },
+    {
+      "date": "2023-10-10",
+      "responsible": "Keck, Zelia"
+    },
+    {
+      "date": "2023-10-11",
+      "responsible": "Baghira"
+    },
+    {
+      "date": "2023-10-12",
+      "responsible": "Hagrid"
+    },
+    {
+      "date": "2023-10-13",
+      "responsible": "Sprudel"
+    },
+    {
+      "date": "2023-10-14",
+      "responsible": "Curasch, Sprudel"
+    },
+    {
+      "date": "2023-10-15",
+      "responsible": "Happy"
+    }
+  ],
+  "blocks": [
+    {
+      "id": "demo-0",
+      "date": "2023-10-08",
+      "start": 525,
+      "end": 555,
+      "number": "1.1",
+      "category": "LP",
+      "title": "Besammlung",
+      "responsible": "Sprudel",
+      "relationships": [
+        "others"
+      ],
+      "methods": [
+        "symbolism"
+      ],
+      "subPoints": [
+        "symbolism.3"
+      ]
+    },
+    {
+      "id": "demo-1",
+      "date": "2023-10-08",
+      "start": 555,
+      "end": 750,
+      "number": "1.2",
+      "category": "LP",
+      "title": "Zugreise",
+      "responsible": "Sprudel",
+      "relationships": [
+        "others"
+      ],
+      "methods": [],
+      "subPoints": [
+        "others.2",
+        "others.5"
+      ]
+    },
+    {
+      "id": "demo-2",
+      "date": "2023-10-08",
+      "start": 600,
+      "end": 660,
+      "number": "1.3",
+      "category": "LA",
+      "title": "Kartenkunde",
+      "responsible": "Sprudel",
+      "relationships": [
+        "environment"
+      ],
+      "methods": [
+        "progress"
+      ],
+      "subPoints": [
+        "environment.1",
+        "progress.3"
+      ]
+    },
+    {
+      "id": "demo-3",
+      "date": "2023-10-08",
+      "start": 750,
+      "end": 810,
+      "number": "1.4",
+      "category": "ES",
+      "title": "Lunch",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-4",
+      "date": "2023-10-08",
+      "start": 810,
+      "end": 840,
+      "number": "1.5",
+      "category": "Motto",
+      "title": "Motto Input 1",
+      "responsible": "Baghira",
+      "relationships": [],
+      "methods": [
+        "symbolism",
+        "play"
+      ],
+      "subPoints": [
+        "symbolism.1",
+        "play.2"
+      ]
+    },
+    {
+      "id": "demo-5",
+      "date": "2023-10-08",
+      "start": 840,
+      "end": 870,
+      "number": "1.6",
+      "category": "LP",
+      "title": "Einpuffen",
+      "responsible": "Zelia",
+      "relationships": [
+        "personality"
+      ],
+      "methods": [
+        "smallGroup"
+      ],
+      "subPoints": [
+        "personality.1",
+        "personality.3",
+        "smallGroup.3",
+        "smallGroup.1"
+      ]
+    },
+    {
+      "id": "demo-6",
+      "date": "2023-10-08",
+      "start": 870,
+      "end": 900,
+      "number": "1.7",
+      "category": "LA",
+      "title": "Lagerpakt",
+      "responsible": "Happy",
+      "relationships": [
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "action",
+        "law"
+      ],
+      "subPoints": [
+        "spirituality.5",
+        "smallGroup.3",
+        "smallGroup.2",
+        "law.1",
+        "others.2"
+      ]
+    },
+    {
+      "id": "demo-7",
+      "date": "2023-10-08",
+      "start": 900,
+      "end": 990,
+      "number": "1.8",
+      "category": "LA",
+      "title": "Steinzeitskills",
+      "responsible": "Hagrid",
+      "relationships": [
+        "body",
+        "environment"
+      ],
+      "methods": [
+        "action",
+        "progress",
+        "outdoors"
+      ],
+      "subPoints": [
+        "outdoors.1",
+        "outdoors.2",
+        "progress.3",
+        "action.1",
+        "action.2"
+      ]
+    },
+    {
+      "id": "demo-8",
+      "date": "2023-10-08",
+      "start": 990,
+      "end": 1110,
+      "number": "1.9",
+      "category": "LS",
+      "title": "Ruechspieli",
+      "responsible": "Curasch",
+      "relationships": [
+        "body"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": [
+        "play.1",
+        "body.1"
+      ]
+    },
+    {
+      "id": "demo-9",
+      "date": "2023-10-08",
+      "start": 1110,
+      "end": 1230,
+      "number": "1.10",
+      "category": "ES",
+      "title": "Znacht und Ämtli",
+      "relationships": [],
+      "methods": [
+        "smallGroup"
+      ],
+      "subPoints": [
+        "smallGroup.2"
+      ]
+    },
+    {
+      "id": "demo-10",
+      "date": "2023-10-08",
+      "start": 1230,
+      "end": 1320,
+      "number": "1.11",
+      "category": "LP",
+      "title": "Spieleabend",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "play"
+      ],
+      "subPoints": [
+        "personality.3",
+        "others.1",
+        "others.2",
+        "others.5",
+        "play.4"
+      ]
+    },
+    {
+      "id": "demo-11",
+      "date": "2023-10-08",
+      "start": 1320,
+      "end": 1350,
+      "number": "1.12",
+      "category": "TABS",
+      "title": "Tabs",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "symbolism",
+        "action"
+      ],
+      "subPoints": [
+        "personality.5",
+        "others.5",
+        "others.3",
+        "smallGroup.1",
+        "smallGroup.4",
+        "symbolism.3",
+        "action.3",
+        "spirituality.2"
+      ]
+    },
+    {
+      "id": "demo-12",
+      "date": "2023-10-09",
+      "start": 450,
+      "end": 540,
+      "number": "2.2",
+      "category": "ES",
+      "title": "Zmorgen",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-13",
+      "date": "2023-10-09",
+      "start": 540,
+      "end": 630,
+      "number": "2.3",
+      "category": "LS",
+      "title": "Stafettenspiele",
+      "responsible": "Zelia",
+      "relationships": [
+        "body",
+        "others"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-14",
+      "date": "2023-10-09",
+      "start": 630,
+      "end": 720,
+      "number": "2.4",
+      "category": "LP",
+      "title": "Hofskills",
+      "responsible": "Sprudel, Happy",
+      "relationships": [
+        "personality",
+        "others",
+        "environment"
+      ],
+      "methods": [
+        "progress",
+        "action",
+        "play",
+        "community"
+      ],
+      "subPoints": [
+        "environment.2",
+        "community.2"
+      ]
+    },
+    {
+      "id": "demo-15",
+      "date": "2023-10-09",
+      "start": 720,
+      "end": 840,
+      "number": "2.5",
+      "category": "ES",
+      "title": "Zmittag",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-16",
+      "date": "2023-10-09",
+      "start": 840,
+      "end": 960,
+      "number": "2.6",
+      "category": "LA",
+      "title": "Pfaditechnik",
+      "responsible": "Baghira",
+      "relationships": [
+        "personality",
+        "body",
+        "environment"
+      ],
+      "methods": [
+        "progress",
+        "action",
+        "outdoors"
+      ],
+      "subPoints": [
+        "environment.3"
+      ]
+    },
+    {
+      "id": "demo-17",
+      "date": "2023-10-09",
+      "start": 960,
+      "end": 1020,
+      "number": "2.8",
+      "category": "LS",
+      "title": "Seifenbasketball",
+      "relationships": [
+        "body",
+        "others"
+      ],
+      "methods": [
+        "play",
+        "smallGroup"
+      ],
+      "subPoints": [
+        "smallGroup.1",
+        "smallGroup.4"
+      ]
+    },
+    {
+      "id": "demo-18",
+      "date": "2023-10-09",
+      "start": 1020,
+      "end": 1080,
+      "number": "2.10",
+      "category": "FREI",
+      "title": "Duschen & Freizeit",
+      "responsible": "Zelia",
+      "relationships": [
+        "personality",
+        "body"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": [
+        "play.3",
+        "personality.3",
+        "body.3"
+      ]
+    },
+    {
+      "id": "demo-19",
+      "date": "2023-10-09",
+      "start": 1080,
+      "end": 1140,
+      "number": "2.11",
+      "category": "LP",
+      "title": "Quiz",
+      "responsible": "Zelia",
+      "relationships": [
+        "personality",
+        "others"
+      ],
+      "methods": [
+        "progress",
+        "smallGroup",
+        "play"
+      ],
+      "subPoints": [
+        "play.4"
+      ]
+    },
+    {
+      "id": "demo-20",
+      "date": "2023-10-09",
+      "start": 1140,
+      "end": 1260,
+      "number": "2.12",
+      "category": "ES",
+      "title": "Znacht",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-21",
+      "date": "2023-10-09",
+      "start": 1260,
+      "end": 1320,
+      "number": "2.13",
+      "category": "LP",
+      "title": "Singsong",
+      "responsible": "Baghira",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "symbolism"
+      ],
+      "subPoints": [
+        "others.1"
+      ]
+    },
+    {
+      "id": "demo-22",
+      "date": "2023-10-09",
+      "start": 1320,
+      "end": 1350,
+      "number": "2.14",
+      "category": "TABS",
+      "title": "Tabs",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "symbolism",
+        "action"
+      ],
+      "subPoints": [
+        "symbolism.3",
+        "action.3",
+        "spirituality.2"
+      ]
+    },
+    {
+      "id": "demo-23",
+      "date": "2023-10-10",
+      "start": 450,
+      "end": 540,
+      "number": "3.2",
+      "category": "ES",
+      "title": "Zmorgen",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-24",
+      "date": "2023-10-10",
+      "start": 540,
+      "end": 660,
+      "number": "3.3",
+      "category": "LP",
+      "title": "Atelier",
+      "responsible": "Zaziki, Keck",
+      "relationships": [
+        "personality",
+        "environment"
+      ],
+      "methods": [
+        "action",
+        "outdoors",
+        "progress"
+      ],
+      "subPoints": [
+        "progress.2"
+      ]
+    },
+    {
+      "id": "demo-25",
+      "date": "2023-10-10",
+      "start": 660,
+      "end": 720,
+      "number": "3.4",
+      "category": "LS",
+      "title": "PTA-Sportblock",
+      "responsible": "Zelia",
+      "relationships": [
+        "body",
+        "others"
+      ],
+      "methods": [
+        "play",
+        "progress"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-26",
+      "date": "2023-10-10",
+      "start": 720,
+      "end": 840,
+      "number": "3.5",
+      "category": "ES",
+      "title": "PTA-Zmittag",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-27",
+      "date": "2023-10-10",
+      "start": 840,
+      "end": 900,
+      "number": "3.6",
+      "category": "LA",
+      "title": "Prävention",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "body",
+        "spirituality"
+      ],
+      "methods": [
+        "action",
+        "smallGroup",
+        "law",
+        "community"
+      ],
+      "subPoints": [
+        "body.2",
+        "law.2",
+        "community.3"
+      ]
+    },
+    {
+      "id": "demo-28",
+      "date": "2023-10-10",
+      "start": 900,
+      "end": 960,
+      "number": "3.7",
+      "category": "FREI",
+      "title": "Freizeit",
+      "relationships": [
+        "personality"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-29",
+      "date": "2023-10-10",
+      "start": 960,
+      "end": 1080,
+      "number": "3.8",
+      "category": "LS",
+      "title": "Spieliblock",
+      "responsible": "Curasch",
+      "relationships": [
+        "body"
+      ],
+      "methods": [
+        "play",
+        "smallGroup"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-30",
+      "date": "2023-10-10",
+      "start": 1080,
+      "end": 1200,
+      "number": "3.9",
+      "category": "ES",
+      "title": "Znacht",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-31",
+      "date": "2023-10-10",
+      "start": 1200,
+      "end": 1320,
+      "number": "3.10",
+      "category": "LA",
+      "title": "Pfadiversprechen",
+      "responsible": "Sprudel",
+      "relationships": [
+        "personality",
+        "spirituality"
+      ],
+      "methods": [
+        "law",
+        "action",
+        "symbolism",
+        "community"
+      ],
+      "subPoints": [
+        "symbolism.4",
+        "community.3"
+      ]
+    },
+    {
+      "id": "demo-32",
+      "date": "2023-10-10",
+      "start": 1320,
+      "end": 1350,
+      "number": "3.11",
+      "category": "TABS",
+      "title": "Tabs",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "symbolism",
+        "action"
+      ],
+      "subPoints": [
+        "symbolism.3",
+        "action.3",
+        "spirituality.2"
+      ]
+    },
+    {
+      "id": "demo-33",
+      "date": "2023-10-11",
+      "start": 450,
+      "end": 540,
+      "number": "4.2",
+      "category": "ES",
+      "title": "Zmorgen",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-34",
+      "date": "2023-10-11",
+      "start": 540,
+      "end": 570,
+      "number": "4.3",
+      "category": "LP",
+      "title": "packen Wanderung",
+      "responsible": "Baghira, Zaziki",
+      "relationships": [
+        "personality"
+      ],
+      "methods": [
+        "smallGroup",
+        "community",
+        "outdoors"
+      ],
+      "subPoints": [
+        "community.2",
+        "outdoors.3"
+      ]
+    },
+    {
+      "id": "demo-35",
+      "date": "2023-10-11",
+      "start": 570,
+      "end": 960,
+      "number": "4.4",
+      "category": "LS",
+      "title": "Tageswanderung zur Ruine",
+      "responsible": "Baghira, Zaziki",
+      "relationships": [
+        "body",
+        "others",
+        "environment"
+      ],
+      "methods": [
+        "progress",
+        "outdoors",
+        "play"
+      ],
+      "subPoints": [
+        "environment.1"
+      ]
+    },
+    {
+      "id": "demo-36",
+      "date": "2023-10-11",
+      "start": 720,
+      "end": 780,
+      "number": "4.5",
+      "category": "ES",
+      "title": "Lunch",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-37",
+      "date": "2023-10-11",
+      "start": 780,
+      "end": 840,
+      "number": "4.6",
+      "category": "LP",
+      "title": "Burgskills",
+      "responsible": "Hagrid",
+      "relationships": [
+        "personality",
+        "environment"
+      ],
+      "methods": [
+        "action",
+        "outdoors"
+      ],
+      "subPoints": [
+        "environment.1"
+      ]
+    },
+    {
+      "id": "demo-38",
+      "date": "2023-10-11",
+      "start": 960,
+      "end": 1080,
+      "number": "4.7",
+      "category": "LP",
+      "title": "Wellness & Duschen",
+      "responsible": "Zelia",
+      "relationships": [
+        "personality",
+        "body"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": [
+        "play.3"
+      ]
+    },
+    {
+      "id": "demo-39",
+      "date": "2023-10-11",
+      "start": 1080,
+      "end": 1200,
+      "number": "4.8",
+      "category": "ES",
+      "title": "Znacht",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-40",
+      "date": "2023-10-11",
+      "start": 1200,
+      "end": 1320,
+      "number": "4.9",
+      "category": "LP",
+      "title": "Casinoabend",
+      "responsible": "Happy",
+      "relationships": [
+        "personality"
+      ],
+      "methods": [
+        "action",
+        "smallGroup",
+        "play"
+      ],
+      "subPoints": [
+        "play.4"
+      ]
+    },
+    {
+      "id": "demo-41",
+      "date": "2023-10-11",
+      "start": 1320,
+      "end": 1350,
+      "number": "4.10",
+      "category": "TABS",
+      "title": "Tabs",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "symbolism",
+        "action"
+      ],
+      "subPoints": [
+        "symbolism.3",
+        "action.3",
+        "spirituality.2"
+      ]
+    },
+    {
+      "id": "demo-42",
+      "date": "2023-10-12",
+      "start": 480,
+      "end": 570,
+      "number": "5.2",
+      "category": "ES",
+      "title": "Zmorge",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-43",
+      "date": "2023-10-12",
+      "start": 570,
+      "end": 720,
+      "number": "5.3",
+      "category": "LS",
+      "title": "Geländegame",
+      "responsible": "Curasch, Sprudel",
+      "relationships": [
+        "body",
+        "others",
+        "environment"
+      ],
+      "methods": [
+        "action",
+        "smallGroup",
+        "outdoors",
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-44",
+      "date": "2023-10-12",
+      "start": 720,
+      "end": 840,
+      "number": "5.4",
+      "category": "ES",
+      "title": "Koko Zmittag",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-45",
+      "date": "2023-10-12",
+      "start": 840,
+      "end": 900,
+      "number": "5.5",
+      "category": "LA",
+      "title": "1. Hilfe und Co.",
+      "responsible": "Zelia, Baghira",
+      "relationships": [
+        "personality",
+        "body",
+        "others"
+      ],
+      "methods": [
+        "progress",
+        "action",
+        "law",
+        "community"
+      ],
+      "subPoints": [
+        "law.2",
+        "community.2"
+      ]
+    },
+    {
+      "id": "demo-46",
+      "date": "2023-10-12",
+      "start": 900,
+      "end": 990,
+      "number": "5.7",
+      "category": "LP",
+      "title": "Tabu XXL",
+      "responsible": "Zelia",
+      "relationships": [
+        "personality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-47",
+      "date": "2023-10-12",
+      "start": 990,
+      "end": 1080,
+      "number": "5.8",
+      "category": "LS",
+      "title": "Ruechspieli mit Wasser",
+      "responsible": "Hagrid",
+      "relationships": [
+        "body",
+        "others"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-48",
+      "date": "2023-10-12",
+      "start": 1080,
+      "end": 1200,
+      "number": "5.10",
+      "category": "ES",
+      "title": "Znacht",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-49",
+      "date": "2023-10-12",
+      "start": 1200,
+      "end": 1320,
+      "number": "5.11",
+      "category": "LP",
+      "title": "Gspürschmi, fühlsch mi",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "body",
+        "spirituality"
+      ],
+      "methods": [
+        "action",
+        "symbolism",
+        "smallGroup",
+        "law"
+      ],
+      "subPoints": [
+        "body.4",
+        "law.2"
+      ]
+    },
+    {
+      "id": "demo-50",
+      "date": "2023-10-13",
+      "start": 450,
+      "end": 525,
+      "number": "6.2",
+      "category": "ES",
+      "title": "Zmorge",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-51",
+      "date": "2023-10-13",
+      "start": 525,
+      "end": 600,
+      "number": "6.3",
+      "category": "LP",
+      "title": "Reise nach Basel",
+      "responsible": "Sprudel",
+      "relationships": [
+        "others"
+      ],
+      "methods": [
+        "smallGroup"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-52",
+      "date": "2023-10-13",
+      "start": 600,
+      "end": 720,
+      "number": "6.4",
+      "category": "LS",
+      "title": "Leiterlispiel Stadt",
+      "responsible": "Happy, Zelia",
+      "relationships": [
+        "personality",
+        "others",
+        "environment"
+      ],
+      "methods": [
+        "play",
+        "smallGroup",
+        "community"
+      ],
+      "subPoints": [
+        "environment.1"
+      ]
+    },
+    {
+      "id": "demo-53",
+      "date": "2023-10-13",
+      "start": 720,
+      "end": 780,
+      "number": "6.5",
+      "category": "ES",
+      "title": "Lunch",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-54",
+      "date": "2023-10-13",
+      "start": 780,
+      "end": 960,
+      "number": "6.6",
+      "category": "LS",
+      "title": "Hallenbad",
+      "responsible": "Sprudel",
+      "relationships": [
+        "body"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-55",
+      "date": "2023-10-13",
+      "start": 960,
+      "end": 1035,
+      "number": "6.7",
+      "category": "LP",
+      "title": "Heimweg",
+      "responsible": "Sprudel",
+      "relationships": [
+        "others",
+        "environment"
+      ],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-56",
+      "date": "2023-10-13",
+      "start": 1035,
+      "end": 1080,
+      "number": "6.8",
+      "category": "FREI",
+      "title": "Freizeit",
+      "relationships": [
+        "personality"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-57",
+      "date": "2023-10-13",
+      "start": 1080,
+      "end": 1200,
+      "number": "6.9",
+      "category": "ES",
+      "title": "Znacht",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-58",
+      "date": "2023-10-13",
+      "start": 1200,
+      "end": 1320,
+      "number": "6.10",
+      "category": "LP",
+      "title": "Lagergericht",
+      "responsible": "Curasch",
+      "relationships": [
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "law",
+        "symbolism"
+      ],
+      "subPoints": [
+        "spirituality.3"
+      ]
+    },
+    {
+      "id": "demo-59",
+      "date": "2023-10-13",
+      "start": 1320,
+      "end": 1350,
+      "number": "6.11",
+      "category": "TABS",
+      "title": "Tabs",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "symbolism",
+        "action"
+      ],
+      "subPoints": [
+        "symbolism.3",
+        "action.3",
+        "spirituality.2"
+      ]
+    },
+    {
+      "id": "demo-60",
+      "date": "2023-10-14",
+      "start": 450,
+      "end": 540,
+      "number": "7.2",
+      "category": "ES",
+      "title": "Zmorge",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-61",
+      "date": "2023-10-14",
+      "start": 540,
+      "end": 630,
+      "number": "7.3",
+      "category": "LS",
+      "title": "Tanzen",
+      "responsible": "Zaziki, Hagrid",
+      "relationships": [
+        "body",
+        "others"
+      ],
+      "methods": [
+        "action",
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-62",
+      "date": "2023-10-14",
+      "start": 630,
+      "end": 690,
+      "number": "7.4",
+      "category": "LA",
+      "title": "Kartenkunde",
+      "responsible": "Baghira",
+      "relationships": [
+        "personality",
+        "environment"
+      ],
+      "methods": [
+        "action",
+        "progress",
+        "outdoors"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-63",
+      "date": "2023-10-14",
+      "start": 690,
+      "end": 720,
+      "number": "7.5",
+      "category": "FREI",
+      "title": "Freizeit",
+      "relationships": [
+        "personality"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-64",
+      "date": "2023-10-14",
+      "start": 720,
+      "end": 840,
+      "number": "7.6",
+      "category": "ES",
+      "title": "Zmittag",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-65",
+      "date": "2023-10-14",
+      "start": 840,
+      "end": 960,
+      "number": "7.7",
+      "category": "LS",
+      "title": "Olympiade",
+      "responsible": "Hagrid",
+      "relationships": [
+        "body",
+        "others"
+      ],
+      "methods": [
+        "play",
+        "action",
+        "smallGroup",
+        "law"
+      ],
+      "subPoints": [
+        "law.1"
+      ]
+    },
+    {
+      "id": "demo-66",
+      "date": "2023-10-14",
+      "start": 960,
+      "end": 1080,
+      "number": "7.10",
+      "category": "LP",
+      "title": "Vorbereitung Abschlussabend",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "others"
+      ],
+      "methods": [
+        "smallGroup",
+        "action",
+        "progress",
+        "community"
+      ],
+      "subPoints": [
+        "community.2"
+      ]
+    },
+    {
+      "id": "demo-67",
+      "date": "2023-10-14",
+      "start": 1080,
+      "end": 1200,
+      "number": "7.11",
+      "category": "ES",
+      "title": "Znacht",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-68",
+      "date": "2023-10-14",
+      "start": 1200,
+      "end": 1320,
+      "number": "7.12",
+      "category": "LP",
+      "title": "Abschlussabend",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "play",
+        "symbolism"
+      ],
+      "subPoints": [
+        "spirituality.3"
+      ]
+    },
+    {
+      "id": "demo-69",
+      "date": "2023-10-15",
+      "start": 420,
+      "end": 450,
+      "number": "8.1",
+      "category": "LP",
+      "title": "Packen",
+      "responsible": "Zelia",
+      "relationships": [
+        "others",
+        "environment"
+      ],
+      "methods": [
+        "smallGroup"
+      ],
+      "subPoints": [
+        "environment.2"
+      ]
+    },
+    {
+      "id": "demo-70",
+      "date": "2023-10-15",
+      "start": 450,
+      "end": 540,
+      "number": "8.2",
+      "category": "ES",
+      "title": "Zmorgen",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-71",
+      "date": "2023-10-15",
+      "start": 540,
+      "end": 585,
+      "number": "8.3",
+      "category": "LP",
+      "title": "Heimputzen",
+      "responsible": "Happy",
+      "relationships": [
+        "others",
+        "environment"
+      ],
+      "methods": [
+        "smallGroup",
+        "community"
+      ],
+      "subPoints": [
+        "environment.5",
+        "community.2"
+      ]
+    },
+    {
+      "id": "demo-72",
+      "date": "2023-10-15",
+      "start": 585,
+      "end": 690,
+      "number": "8.4",
+      "category": "LS",
+      "title": "Spieli",
+      "responsible": "Hagrid",
+      "relationships": [
+        "body",
+        "others"
+      ],
+      "methods": [
+        "play",
+        "smallGroup"
+      ],
+      "subPoints": []
+    },
+    {
+      "id": "demo-73",
+      "date": "2023-10-15",
+      "start": 690,
+      "end": 720,
+      "number": "8.5",
+      "category": "Motto",
+      "title": "Motto Ende",
+      "responsible": "Baghira",
+      "relationships": [],
+      "methods": [
+        "play",
+        "symbolism"
+      ],
+      "subPoints": [
+        "symbolism.1"
+      ]
+    },
+    {
+      "id": "demo-74",
+      "date": "2023-10-15",
+      "start": 720,
+      "end": 780,
+      "number": "8.6",
+      "category": "ES",
+      "title": "Lunch",
+      "relationships": [],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-75",
+      "date": "2023-10-15",
+      "start": 840,
+      "end": 1005,
+      "number": "8.8",
+      "category": "LP",
+      "title": "Heimreise",
+      "responsible": "Sprudel",
+      "relationships": [
+        "others"
+      ],
+      "methods": [],
+      "subPoints": []
+    },
+    {
+      "id": "demo-76",
+      "date": "2023-10-15",
+      "start": 870,
+      "end": 930,
+      "number": "8.9",
+      "category": "LA",
+      "title": "Auswerten",
+      "responsible": "Happy",
+      "relationships": [
+        "personality",
+        "spirituality",
+        "others"
+      ],
+      "methods": [
+        "symbolism",
+        "smallGroup",
+        "action",
+        "law"
+      ],
+      "subPoints": [
+        "law.1"
+      ]
+    },
+    {
+      "id": "demo-77",
+      "date": "2023-10-15",
+      "start": 780,
+      "end": 840,
+      "number": "8.7",
+      "category": "LS",
+      "title": "Spiele",
+      "responsible": "Baghira",
+      "relationships": [
+        "personality",
+        "body",
+        "others"
+      ],
+      "methods": [
+        "play"
+      ],
+      "subPoints": []
+    }
+  ]
+}

@@ -4,7 +4,8 @@ import vuetify from 'vite-plugin-vuetify'
 import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
-  base: '/pfadiprofil-checker/',
+  // Relative Pfade: Die App läuft unter jeder URL (GitHub Pages, lokal, eigene Domain)
+  base: './',
   plugins: [vue(), vuetify({ autoImport: true })],
   resolve: {
     alias: {
